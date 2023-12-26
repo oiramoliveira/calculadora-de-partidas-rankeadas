@@ -4,9 +4,9 @@ console.log('Calculadora de Partidas Rankeadas')
 let vitorias = Math.floor(Math.random() * 200)
 let derrotas = Math.floor(Math.random() * 200)
 
-function partidaRankeada(qtdVitorias, qtdDerrotas){
+function partidaRankeada(vitorias, derrotas){
 
-    let partidas = qtdVitorias - qtdDerrotas
+    let partidas = vitorias - derrotas
     
     return partidas
 }
