@@ -1,2 +1,2 @@
 # calculadora-de-partidas-rankeadas
-Desaio Felipão DIO
+Desafio Felipão DIO
